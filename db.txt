@@ -1,0 +1,19 @@
+create table registration_details (email varchar2(30) primary key, first_name varchar2(20), last_name varchar2(20), password varchar2(100),contact_no number(10))
+
+drop table registration_details 
+
+select * from registration_details 
+create table register (username varchar2(20), email varchar2(20), password varchar2(20), phoneno number, cost number)
+drop table register
+select * from register
+
+update register set cost= 10000 where username='monika'
+
+select * from sofa_details
+
+create table sofa_details(id number(10),type varchar2(100),photo varchar2(100))
+
+create sequence sofa_seq
+start with 1
+increment by 1
+nocycle
