@@ -1,0 +1,38 @@
+Registration EPIC1
+Login EPIC2
+Book EPIC3
+Add to cart EPIC4
+View Bill EPIC5
+
+Product Backlog
+Registration
+Login
+Book
+Add to cart
+
+ID:11
+TITLE: Register
+DESCRIPTION: To become a authorised user I need to login to access the whole 
+
+website
+EPIC: Registration
+
+ID:12
+TITLE: Login
+DESCRIPTION: I will have to login to the website to book the sofa
+EPIC: login
+
+ID:13
+TITLE: Search Course
+DESCRIPTION: I want to  search for my suitable course 
+EPIC: Search Course
+
+ID:14
+TITLE: Booking
+DESCRIPTION: I want to book my selected sofa of interest 
+EPIC: Book
+
+ID:15
+TITLE: Add to cart
+DESCRIPTION: I want to add my selected sofa and make further payment
+EPIC: Add to cart
